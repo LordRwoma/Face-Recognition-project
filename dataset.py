@@ -13,7 +13,7 @@ def generate_dataset():
         return cropped_face
     
     cap = cv2.VideoCapture(0)
-    id=1
+    id=3
     img_id=0
 
     while True:
